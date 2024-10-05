@@ -1,6 +1,7 @@
 Test Automation Framework for SauceDemo Using POM framework.
 
 Key Components:
+
 **Pages**: Contains classes that model the web pages of the SauceDemo site.
 
 **Tests**: Contains the test scripts written using TestNG.
@@ -11,6 +12,7 @@ Key Components:
 
 
 Technologies Used
+
 **Java**: Core programming language used to write test scripts.
 
 **Selenium WebDriver**: Web automation library for interacting with web elements on SauceDemo.
@@ -24,6 +26,7 @@ Technologies Used
 **Page Object Model & PageFactory**: Design patterns for separating test logic from UI elements.
 
 Key Features
+
 **Hybrid Automation Framework**: Combines features of keyword-driven, data-driven, and POM-based frameworks.
 
 **Page Object Model (POM)**: Organized code structure where web page elements and methods are separated for maintainability.
